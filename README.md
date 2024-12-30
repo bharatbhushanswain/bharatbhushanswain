@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning about Deep Learning and AI.
 - 👯 I’m looking to collaborate on open-source projects related to Data Science.
 - 🤔 I’m looking for help with improving my knowledge in neural networks.
-- 💬 Ask me about Python, Machine Learning, and Data Analysis.
-- 📫 How to reach me: bharatbhushanswain@example.com
+- 💬 Ask me about Python, Machine Learning, Data Analysis and sql.
+- 📫 How to reach me: bharatbhushanswain99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving Rubik's cubes and can solve them in under a minute!
 
@@ -15,9 +15,9 @@
 
 ### 🛠️ Languages and Tools:
 
-- Programming Languages: Python, JavaScript
+- Programming Languages: Python, sql, mysql
 - Frameworks: TensorFlow, Keras, React
-- Tools: Git, Docker, Jupyter Notebook
+- Tools: Git, Docker,spyder,power BI, Jupyter Notebook
 
 ---
 
